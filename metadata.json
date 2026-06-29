@@ -1,0 +1,6 @@
+{
+  "name": "眠羊",
+  "description": "和绵羊一起沉入松软的梦境，云养电子宠物小绵羊、同步作息记录睡眠报告的健康助眠应用。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
